@@ -1,0 +1,20 @@
+footer{
+    text-align: center;
+    color: aliceblue;
+    background: rgba(23, 31, 46, 1);
+    margin-bottom: 0px;
+    padding: 10px;
+}
+
+footer p{
+    color: aliceblue;
+    font-size: 10px;
+}
+
+footer img{
+    padding: 8px;
+}
+
+.socialmedia{
+    padding: 10px 10px;
+}
